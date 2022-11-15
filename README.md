@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MJ Adendorff (@mj-adendorff)
-- 💻 I'm currently employed at Digitally Shifted Ltd. as a Software Developer/Engineer.
+- 💻 I'm currently employed at QuicklySign Ltd. as a Software Developer/Engineer.
 - 👀 I’m interested in Computer Science, AI/ML, Data Structures, Algorithms and software at scale.
 - 🌱 I’m currently learning Rust, D, Haskell and Topology 😵‍💫
 - 💞️ I’m looking to collaborate on anything :)
