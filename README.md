@@ -3,7 +3,7 @@
 - 👀 I’m interested in Computer Science, AI/ML, Data Structures, Algorithms and software at scale.
 - 🌱 I’m currently learning Rust, D, Haskell and Topology 😵‍💫
 - 💞️ I’m looking to collaborate on anything :)
-- 📫 How to reach me {email: mj.adendorff@icloud.com}
+- 📫 How to reach me {personal_email: mj.adendorff@icloud.com, work_email: mj@quicklysign.com}
 
 <!---
 mj-adendorff/mj-adendorff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
